@@ -7,6 +7,7 @@ Required Node version < 18.0
 
 Hit this url
 http://localhost:5006/identify -> localhost url
+https://bitespeed-kqmm.onrender.com/ -> Production Url
 
 payload example:
 {
