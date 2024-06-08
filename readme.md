@@ -6,9 +6,8 @@ v18.0 => Node version v18 or above v18.x
 4. Project started
 
 ## URl
-
-http://localhost:5006/identify -> localhost url
-https://bitespeed-kqmm.onrender.com/identify -> Production Url
+* http://localhost:5006/identify -> localhost url
+* https://bitespeed-kqmm.onrender.com/identify -> Production Url
 
 ````console
 payload example:
